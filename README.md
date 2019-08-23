@@ -1,5 +1,11 @@
 <H1>SUDOKU VOCABULARY PRACTICE APP</H1>
 
+<b>This is an educational game app for users who are learning a new language and enjoy Sudoku puzzles. </b>
+
+A standard Sudoku puzzle is a 9x9 grid of cells organized into a 3x3 arrangement of 3x3 subgrids. Some of the cells initially contain digits 1 through 9. A Sudoku puzzle is solved by filling in the entire grid of cells such that every row and every column and every subgrid contains one each of the digits 1 through 9.
+
+<b>The idea of the Sudoku Vocabulary Practice App is to replace the digits 1 through 9 with nine pairs of words. Each pair of words consists of one word in the user's native language (say English), and one word in the Japanese language. </b>
+
 
 Icon Credits:
 
