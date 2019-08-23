@@ -1,0 +1,64 @@
+<resources>
+    <!-- String Resources for Main Activity -->
+    <string name="app_name">SUDOKU VOCABULARY</string>
+    <string name="play_button">Play</string>
+    <string name="add_words">Add Words</string>
+    <string name="flashcards">Flashcards</string>
+    <!-- String Resources for Mode Activity -->
+    <string name="game_mode">Choose the mode</string>
+    <string name="game_mode_normal">Random Words</string>
+    <string name="game_mode_difficult">Challenging Words</string>
+    <string name="game_mode_teacher">Teacher\'s Words</string>
+    <!-- String Resources for Add Word Activity -->
+    <string name="a_w_mode">You want to add words from</string>
+    <string name="a_w_mode_teacher">Your Teacher</string>
+    <string name="a_w_mode_other">Other Sources</string>
+    <!-- String Resources for Language Activity -->
+    <string name="mode">Choose the language</string>
+    <string name="mode1">Fill in English words</string>
+    <string name="mode2">Fill in 日本語 words</string>
+    <string name="lmode">Listener Mode</string>
+    <string name="pmode">Pronunciation Mode</string>
+    <string name="size4">4 x 4</string>
+    <string name="size6">6 x 6</string>
+    <string name="size9">9 x 9</string>
+    <string name="size12">12 x 12</string>
+    <string name="game_level">Choose the level</string>
+    <string name="easy_level">Easy</string>
+    <string name="medium_level">Medium</string>
+    <string name="difficult_level">Difficult</string>
+    <!-- String Resources for Sudoku Activity -->
+    <string name="clear">Clear</string>
+    <string name="timer">00:00</string>
+    <string name="word0">word 0</string>
+    <string name="word1">word 1</string>
+    <string name="word2">word 2</string>
+    <string name="word3">word 3</string>
+    <string name="word4">word 4</string>
+    <string name="word5">word 5</string>
+    <string name="word6">word 6</string>
+    <string name="word7">word 7</string>
+    <string name="word8">word 8</string>
+    <string name="word9">word 9</string>
+    <string name="word10">word 10</string>
+    <string name="word11">word 11</string>
+    <string name="title_activity_tes">tes</string>
+    <string name="cell_text">Word</string>
+    <!-- String Resources for Pronunciation Mode -->
+    <string name="speech_prompt">Tell your word</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <!-- String Resources for List Item WordPair -->
+    <string name="japanese_word">日本語 Word</string>
+    <string name="english_word">English Word</string>
+    <string name="difficulty">Score: 0</string>
+    <!-- String Resources for Images -->
+    <string name="japanese_flag">Japanese Flag</string>
+    <string name="japanese_flower">Japanese Flower</string>
+    <string name="speaker">Speaker</string>
+    <string name="microphone">Microphone</string>
+    <!-- String resources for WordBankActivity -->
+    <string name="done_button">Done</string>
+    <string name="checkmark">Checkmark</string>
+    <!-- String resources for FlashCardPagerActivity -->
+    <string name="play_sudoku">Play Sudoku</string>
+</resources>
